@@ -1,0 +1,14 @@
+.home__bg {
+    background-image: url(https://unsplash.com/fr/photos/personnes-se-tenant-les-epaules-assises-sur-le-mur-Cecb0_8Hx-o?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash);
+    background-image: url(../assets/amis.jpg);
+    height: 92vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+} 
+
+.home-message-icon {
+    margin-left: 10px;
+    display: inline-block;
+}
